@@ -52,7 +52,7 @@ Built with performance, threading, and time-controlled execution in mind.
 
 ## 🧠 Tech Stack
 
-* Python 3
+* Python 3   version(3.11)
 * Playwright (for browser automation)
 * Requests (HTTP handling)
 * DNS Resolver
